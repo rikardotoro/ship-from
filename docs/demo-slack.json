@@ -1,0 +1,241 @@
+{
+  "month": "2017-03",
+  "params": {
+    "value": 20000.0,
+    "capital_rate": 0.12,
+    "freight_per_t_km": 0.012,
+    "port_days": 4.0
+  },
+  "tonnes": 6017.0,
+  "capacity": 12000.0,
+  "utilisation": 0.5014166666666666,
+  "plan_cost": 746929.1304657537,
+  "rule_cost": 746929.1304657534,
+  "gap": -3.4924596548080444e-10,
+  "gap_pct": -4.675757729023494e-16,
+  "plan_cost_per_t": 124.13646841711048,
+  "breakdown": {
+    "handling": 147210.0,
+    "freight": 300295.78799999994,
+    "cash_at_sea": 299423.34246575343
+  },
+  "cash_at_sea_share": 0.4008724927879645,
+  "shadow_price": {
+    "Rotterdam": 0.0,
+    "Savannah": 0.0,
+    "Santos": 0.0,
+    "Singapore": 0.0
+  },
+  "site_utilisation": {
+    "Rotterdam": 0.6005555555555555,
+    "Savannah": 0.84875,
+    "Santos": 0.390625,
+    "Singapore": 0.2711363636363636
+  },
+  "marginal_cost": {
+    "United States": 208.8681095890411,
+    "Mexico": 165.26882191780822,
+    "France": 56.11550684931507,
+    "Germany": 58.20104109589041,
+    "Brazil": 30.0,
+    "Australia": 178.48169863013698,
+    "United Kingdom": 52.07643835616439,
+    "China": 118.52213698630138,
+    "Italy": 123.88920547945206,
+    "India": 131.03287671232877,
+    "Indonesia": 63.63117808219178,
+    "Spain": 108.16493150684931,
+    "Turkey": 154.59375342465754,
+    "Nigeria": 183.5546301369863,
+    "Argentina": 91.45298630136986,
+    "Philippines": 92.37019178082191,
+    "Netherlands": 22.0,
+    "Colombia": 115.99846575342465,
+    "Japan": 145.43961643835615,
+    "South Korea": 131.60887671232877
+  },
+  "allocation": {
+    "Rotterdam": {
+      "France": 647.0,
+      "Germany": 463.0,
+      "United Kingdom": 356.0,
+      "Italy": 239.0,
+      "Spain": 189.0,
+      "Turkey": 175.0,
+      "Netherlands": 93.0
+    },
+    "Savannah": {
+      "United States": 1273.0,
+      "Mexico": 673.0,
+      "Colombia": 91.0
+    },
+    "Santos": {
+      "Brazil": 407.0,
+      "Nigeria": 120.0,
+      "Argentina": 98.0
+    },
+    "Singapore": {
+      "Australia": 379.0,
+      "China": 259.0,
+      "India": 214.0,
+      "Indonesia": 190.0,
+      "Philippines": 94.0,
+      "Japan": 33.0,
+      "South Korea": 24.0
+    }
+  },
+  "rule_allocation": {
+    "Rotterdam": {
+      "France": 647.0,
+      "Germany": 463.0,
+      "United Kingdom": 356.0,
+      "Italy": 239.0,
+      "Spain": 189.0,
+      "Turkey": 175.0,
+      "Netherlands": 93.0
+    },
+    "Savannah": {
+      "United States": 1273.0,
+      "Mexico": 673.0,
+      "Colombia": 91.0
+    },
+    "Santos": {
+      "Brazil": 407.0,
+      "Nigeria": 120.0,
+      "Argentina": 98.0
+    },
+    "Singapore": {
+      "Australia": 379.0,
+      "China": 259.0,
+      "India": 214.0,
+      "Indonesia": 190.0,
+      "Philippines": 94.0,
+      "Japan": 33.0,
+      "South Korea": 24.0
+    }
+  },
+  "moved": {
+    "Rotterdam": {},
+    "Savannah": {},
+    "Santos": {},
+    "Singapore": {}
+  },
+  "months": [
+    {
+      "month": "2017-01",
+      "tonnes": 6375.0,
+      "utilisation": 0.53125,
+      "plan_cost": 791492.087890411,
+      "rule_cost": 791492.087890411,
+      "gap_pct": 0.0,
+      "binding_sites": 0
+    },
+    {
+      "month": "2017-02",
+      "tonnes": 6338.0,
+      "utilisation": 0.5281666666666667,
+      "plan_cost": 786709.7082191781,
+      "rule_cost": 786709.7082191781,
+      "gap_pct": 0.0,
+      "binding_sites": 0
+    },
+    {
+      "month": "2017-03",
+      "tonnes": 6017.0,
+      "utilisation": 0.5014166666666666,
+      "plan_cost": 746929.1304657537,
+      "rule_cost": 746929.1304657534,
+      "gap_pct": -4.675757729023494e-16,
+      "binding_sites": 0
+    },
+    {
+      "month": "2017-04",
+      "tonnes": 6995.0,
+      "utilisation": 0.5829166666666666,
+      "plan_cost": 868416.5130410959,
+      "rule_cost": 868416.5130410959,
+      "gap_pct": 0.0,
+      "binding_sites": 0
+    },
+    {
+      "month": "2017-05",
+      "tonnes": 7891.0,
+      "utilisation": 0.6575833333333333,
+      "plan_cost": 1004846.8220821917,
+      "rule_cost": 1005302.7304657535,
+      "gap_pct": 0.0004535035763312242,
+      "binding_sites": 1
+    },
+    {
+      "month": "2017-06",
+      "tonnes": 9636.0,
+      "utilisation": 0.803,
+      "plan_cost": 1279740.4908493152,
+      "rule_cost": 1328670.587561644,
+      "gap_pct": 0.03682635648774652,
+      "binding_sites": 1
+    },
+    {
+      "month": "2017-07",
+      "tonnes": 10763.0,
+      "utilisation": 0.8969166666666667,
+      "plan_cost": 1480774.5193972604,
+      "rule_cost": 1692648.9020821918,
+      "gap_pct": 0.12517326093101566,
+      "binding_sites": 2
+    },
+    {
+      "month": "2017-08",
+      "tonnes": 9924.0,
+      "utilisation": 0.827,
+      "plan_cost": 1325181.647123288,
+      "rule_cost": 1439776.0463561644,
+      "gap_pct": 0.07959182229965278,
+      "binding_sites": 1
+    },
+    {
+      "month": "2017-09",
+      "tonnes": 7348.0,
+      "utilisation": 0.6123333333333333,
+      "plan_cost": 919684.0867945206,
+      "rule_cost": 919684.0867945206,
+      "gap_pct": 0.0,
+      "binding_sites": 1
+    },
+    {
+      "month": "2017-10",
+      "tonnes": 4999.0,
+      "utilisation": 0.41658333333333336,
+      "plan_cost": 620487.6651506849,
+      "rule_cost": 620487.665150685,
+      "gap_pct": 1.8761907506841966e-16,
+      "binding_sites": 0
+    },
+    {
+      "month": "2017-11",
+      "tonnes": 4667.0,
+      "utilisation": 0.3889166666666667,
+      "plan_cost": 579336.6352876711,
+      "rule_cost": 579336.6352876712,
+      "gap_pct": 2.0094590042476505e-16,
+      "binding_sites": 0
+    },
+    {
+      "month": "2017-12",
+      "tonnes": 4844.0,
+      "utilisation": 0.4036666666666667,
+      "plan_cost": 601185.5606575342,
+      "rule_cost": 601185.5606575343,
+      "gap_pct": 1.93642910684029e-16,
+      "binding_sites": 0
+    }
+  ],
+  "extra_capacity": {
+    "site": "Rotterdam",
+    "tonnes": 500.0,
+    "gain": 0.0,
+    "shadow_estimate": 0.0
+  },
+  "outage": null,
+  "outage_error": null
+}
