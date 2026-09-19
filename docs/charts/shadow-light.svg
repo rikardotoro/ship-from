@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="320" viewBox="0 0 760 320" role="img">
+<text x="56.0" y="24.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="15" fill="#0b0b0b" text-anchor="start" font-weight="bold">What one more tonne of capacity is worth, site by site</text>
+<text x="56.0" y="44.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#898781" text-anchor="start" font-weight="normal">2017-07: the shadow price from the linear program's dual, $ per tonne per month. Grey bar: share of capacity used.</text>
+<line x1="56.0" y1="220.0" x2="736.0" y2="220.0" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="48.0" y="224.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#898781" text-anchor="end" font-weight="normal">$0</text>
+<line x1="56.0" y1="198.6" x2="736.0" y2="198.6" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="48.0" y="202.6" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#898781" text-anchor="end" font-weight="normal">$20</text>
+<line x1="56.0" y1="177.1" x2="736.0" y2="177.1" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="48.0" y="181.1" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#898781" text-anchor="end" font-weight="normal">$40</text>
+<line x1="56.0" y1="155.7" x2="736.0" y2="155.7" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="48.0" y="159.7" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#898781" text-anchor="end" font-weight="normal">$60</text>
+<line x1="56.0" y1="134.3" x2="736.0" y2="134.3" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="48.0" y="138.3" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#898781" text-anchor="end" font-weight="normal">$80</text>
+<line x1="56.0" y1="112.9" x2="736.0" y2="112.9" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="48.0" y="116.9" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#898781" text-anchor="end" font-weight="normal">$100</text>
+<line x1="56.0" y1="91.4" x2="736.0" y2="91.4" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="48.0" y="95.4" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#898781" text-anchor="end" font-weight="normal">$120</text>
+<line x1="56.0" y1="70.0" x2="736.0" y2="70.0" stroke="#e1e0d9" stroke-width="1.0"/>
+<text x="48.0" y="74.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#898781" text-anchor="end" font-weight="normal">$140</text>
+<rect x="89.4" y="70.0" width="47.6" height="150.0" fill="#b8b6ad" opacity="1.0" rx="0"/>
+<text x="113.2" y="65.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#898781" text-anchor="middle" font-weight="normal">100% used</text>
+<rect x="145.0" y="125.7" width="47.6" height="94.3" fill="#eb6834" opacity="1.0" rx="0"/>
+<text x="168.8" y="119.7" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#eb6834" text-anchor="middle" font-weight="bold">$88/t</text>
+<text x="141.0" y="238.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="normal">Rotterdam  (3,600 t)</text>
+<rect x="259.4" y="70.0" width="47.6" height="150.0" fill="#b8b6ad" opacity="1.0" rx="0"/>
+<text x="283.2" y="65.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#898781" text-anchor="middle" font-weight="normal">100% used</text>
+<rect x="315.0" y="113.6" width="47.6" height="106.4" fill="#eb6834" opacity="1.0" rx="0"/>
+<text x="338.8" y="107.6" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#eb6834" text-anchor="middle" font-weight="bold">$99/t</text>
+<text x="311.0" y="238.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="normal">Savannah  (2,400 t)</text>
+<rect x="429.4" y="100.0" width="47.6" height="120.0" fill="#b8b6ad" opacity="1.0" rx="0"/>
+<text x="453.2" y="95.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#898781" text-anchor="middle" font-weight="normal">80% used</text>
+<rect x="485.0" y="218.0" width="47.6" height="2.0" fill="#eb6834" opacity="1.0" rx="0"/>
+<text x="508.8" y="212.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#898781" text-anchor="middle" font-weight="normal">$0: slack</text>
+<text x="481.0" y="238.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="normal">Santos  (1,600 t)</text>
+<rect x="599.4" y="101.3" width="47.6" height="118.7" fill="#b8b6ad" opacity="1.0" rx="0"/>
+<text x="623.2" y="96.3" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#898781" text-anchor="middle" font-weight="normal">79% used</text>
+<rect x="655.0" y="218.0" width="47.6" height="2.0" fill="#eb6834" opacity="1.0" rx="0"/>
+<text x="678.8" y="212.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#898781" text-anchor="middle" font-weight="normal">$0: slack</text>
+<text x="651.0" y="238.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="normal">Singapore  (4,400 t)</text>
+<text x="56.0" y="290.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal">Check: +500 t at Savannah, re-solved, saves $49,674 this month; the shadow price predicted $49,674.</text>
+<text x="56.0" y="308.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal">Adding capacity at a slack site saves nothing, however cheap it is to ship from.</text>
+</svg>

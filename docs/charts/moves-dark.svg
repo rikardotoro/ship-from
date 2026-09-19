@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="434" viewBox="0 0 760 434" role="img">
+<text x="24.0" y="24.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="15" fill="#ffffff" text-anchor="start" font-weight="bold">Where the rule sends cargo the long way round</text>
+<text x="24.0" y="44.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#898781" text-anchor="start" font-weight="normal">2017-07: the lanes that differ between the two plans, landed cost in $ per tonne.</text>
+<text x="24.0" y="60.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#898781" text-anchor="start" font-weight="normal">Blue dot = the site the nearest rule ends up using; orange = the site the linear program picks.</text>
+<line x1="150.0" y1="82.0" x2="150.0" y2="364.0" stroke="#2c2c2a" stroke-width="1.0"/>
+<text x="150.0" y="378.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#898781" text-anchor="middle" font-weight="normal">$0</text>
+<line x1="241.2" y1="82.0" x2="241.2" y2="364.0" stroke="#2c2c2a" stroke-width="1.0"/>
+<text x="241.2" y="378.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#898781" text-anchor="middle" font-weight="normal">$100</text>
+<line x1="332.4" y1="82.0" x2="332.4" y2="364.0" stroke="#2c2c2a" stroke-width="1.0"/>
+<text x="332.4" y="378.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#898781" text-anchor="middle" font-weight="normal">$200</text>
+<line x1="423.6" y1="82.0" x2="423.6" y2="364.0" stroke="#2c2c2a" stroke-width="1.0"/>
+<text x="423.6" y="378.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#898781" text-anchor="middle" font-weight="normal">$300</text>
+<line x1="514.8" y1="82.0" x2="514.8" y2="364.0" stroke="#2c2c2a" stroke-width="1.0"/>
+<text x="514.8" y="378.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#898781" text-anchor="middle" font-weight="normal">$400</text>
+<text x="140.0" y="113.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#ffffff" text-anchor="end" font-weight="normal">Mexico</text>
+<line x1="300.7" y1="109.0" x2="394.1" y2="109.0" stroke="#383835" stroke-width="2"/>
+<circle cx="394.1" cy="109.0" r="6" fill="#3987e5"/>
+<circle cx="300.7" cy="109.0" r="6" fill="#d95926"/>
+<text x="404.1" y="113.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#c3c2b7" text-anchor="start" font-weight="normal">Santos → Savannah, 1,080 t</text>
+<text x="140.0" y="147.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#ffffff" text-anchor="end" font-weight="normal">Netherlands</text>
+<line x1="170.1" y1="143.0" x2="448.8" y2="143.0" stroke="#383835" stroke-width="2"/>
+<circle cx="448.8" cy="143.0" r="6" fill="#3987e5"/>
+<circle cx="170.1" cy="143.0" r="6" fill="#d95926"/>
+<text x="458.8" y="147.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#c3c2b7" text-anchor="start" font-weight="normal">Singapore → Rotterdam, 166 t</text>
+<text x="140.0" y="181.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#ffffff" text-anchor="end" font-weight="normal">Argentina</text>
+<line x1="233.4" y1="177.0" x2="476.5" y2="177.0" stroke="#383835" stroke-width="2"/>
+<circle cx="476.5" cy="177.0" r="6" fill="#3987e5"/>
+<circle cx="233.4" cy="177.0" r="6" fill="#d95926"/>
+<text x="486.5" y="181.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#c3c2b7" text-anchor="start" font-weight="normal">Singapore → Santos, 176 t</text>
+<text x="140.0" y="215.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#ffffff" text-anchor="end" font-weight="normal">Brazil</text>
+<line x1="177.4" y1="211.0" x2="362.2" y2="211.0" stroke="#383835" stroke-width="2"/>
+<circle cx="362.2" cy="211.0" r="6" fill="#3987e5"/>
+<circle cx="177.4" cy="211.0" r="6" fill="#d95926"/>
+<text x="372.2" y="215.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#c3c2b7" text-anchor="start" font-weight="normal">Rotterdam → Santos, 208 t</text>
+<text x="140.0" y="249.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#ffffff" text-anchor="end" font-weight="normal">Colombia</text>
+<line x1="333.9" y1="245.0" x2="529.6" y2="245.0" stroke="#383835" stroke-width="2"/>
+<circle cx="529.6" cy="245.0" r="6" fill="#3987e5"/>
+<circle cx="333.9" cy="245.0" r="6" fill="#d95926"/>
+<text x="539.6" y="249.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#c3c2b7" text-anchor="start" font-weight="normal">Singapore → Santos, 162 t</text>
+<text x="140.0" y="283.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#ffffff" text-anchor="end" font-weight="normal">Nigeria</text>
+<line x1="317.4" y1="279.0" x2="446.8" y2="279.0" stroke="#383835" stroke-width="2"/>
+<circle cx="446.8" cy="279.0" r="6" fill="#3987e5"/>
+<circle cx="317.4" cy="279.0" r="6" fill="#d95926"/>
+<text x="456.8" y="283.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#c3c2b7" text-anchor="start" font-weight="normal">Singapore → Santos, 214 t</text>
+<text x="140.0" y="317.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#ffffff" text-anchor="end" font-weight="normal">Turkey</text>
+<line x1="291.0" y1="313.0" x2="371.3" y2="313.0" stroke="#383835" stroke-width="2"/>
+<circle cx="371.3" cy="313.0" r="6" fill="#3987e5"/>
+<circle cx="291.0" cy="313.0" r="6" fill="#d95926"/>
+<text x="381.3" y="317.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#c3c2b7" text-anchor="start" font-weight="normal">Singapore → Rotterdam, 42 t</text>
+<text x="140.0" y="351.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#ffffff" text-anchor="end" font-weight="normal">United States</text>
+<line x1="340.5" y1="347.0" x2="431.1" y2="347.0" stroke="#383835" stroke-width="2"/>
+<circle cx="340.5" cy="347.0" r="6" fill="#3987e5"/>
+<circle cx="431.1" cy="347.0" r="6" fill="#d95926"/>
+<text x="441.1" y="351.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="10" fill="#c3c2b7" text-anchor="start" font-weight="normal">Savannah → Singapore, 1,080 t</text>
+<text x="24.0" y="400.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#c3c2b7" text-anchor="start" font-weight="normal">The rule fills the nearest site with its biggest customer first; the small ones left over sail from wherever still has room.</text>
+<text x="24.0" y="418.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#c3c2b7" text-anchor="start" font-weight="normal">Some lanes get dearer on purpose: a tonne moved off a full site frees room for a tonne that saves more.</text>
+</svg>
