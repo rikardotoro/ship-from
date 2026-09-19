@@ -5,11 +5,11 @@ import pandas as pd
 EX = Path(__file__).parent.parent / "src" / "ship_from" / "examples"
 
 
-def test_demand_has_36_full_months_and_20_destinations():
+def test_demand_has_12_months_and_20_destinations_every_month():
     d = pd.read_csv(EX / "demand.csv")
-    assert d["month"].nunique() == 36
-    assert d["month"].min() == "2015-01" and d["month"].max() == "2017-12"
-    assert d["destination"].nunique() == 20
+    assert d["month"].nunique() == 12
+    assert (d.groupby("month")["destination"].nunique() == 20).all()
+    assert (d["tonnes"] > 0).all()
 
 
 def test_lanes_cover_every_site_destination_pair():

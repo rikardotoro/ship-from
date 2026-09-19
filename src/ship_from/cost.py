@@ -15,6 +15,15 @@ class CostParams:
     freight_per_t_km: float = 0.012
     port_days: float = 4.0         # days in port at both ends, in total
 
+    def validate(self) -> "CostParams":
+        if self.value < 0:
+            raise ValueError("a negative unit value means customers pay you to take the goods; "
+                             "ship-from does not plan that business")
+        for name in ("capital_rate", "freight_per_t_km", "port_days"):
+            if getattr(self, name) < 0:
+                raise ValueError(f"{name} must be >= 0")
+        return self
+
     def cash_per_day(self) -> float:
         return self.value * self.capital_rate / 365.0
 

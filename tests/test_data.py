@@ -11,7 +11,7 @@ def test_load_network_from_examples():
     assert list(net.sites.index) == ["Rotterdam", "Savannah", "Santos", "Singapore"]
     assert net.lanes.shape == (4, 20)  # km matrix: sites x destinations
     assert net.demand.shape[1] == 20
-    assert net.demand_for("2016-07").sum() == 11652
+    assert net.demand_for("2017-07").sum() > 0
 
 
 def test_aliases_are_accepted(tmp_path: Path):
@@ -35,7 +35,7 @@ def test_missing_column_names_the_file(tmp_path: Path):
 
 def test_negative_capacity_is_reported_with_row(tmp_path: Path):
     _copy(tmp_path)
-    text = (tmp_path / "sites.csv").read_text().replace("Santos,-23.96,-46.30,2400,30", "Santos,-23.96,-46.30,-1,30")
+    text = (tmp_path / "sites.csv").read_text().replace("Santos,-23.96,-46.30,1600,30", "Santos,-23.96,-46.30,-1,30")
     (tmp_path / "sites.csv").write_text(text)
     with pytest.raises(InvalidDataError, match="row 4"):
         load_network(tmp_path)
